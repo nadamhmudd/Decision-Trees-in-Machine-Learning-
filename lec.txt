@@ -1,0 +1,14 @@
+no,su,h,w
+no,su,h,st
+yes,o,h,w
+yes,r,h,w
+yes,r,n,w
+no,r,n,st
+yes,o,n,st
+no,su,h,w
+yes,su,n,w
+yes,r,n,w
+yes,su,n,st
+yes,o,h,st
+yes,o,n,w
+no,r,h,st
